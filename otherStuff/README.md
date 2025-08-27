@@ -1,0 +1,1 @@
+This is mainly a test website to figure how to link VScode and Github together, and to also get better at coding :P
